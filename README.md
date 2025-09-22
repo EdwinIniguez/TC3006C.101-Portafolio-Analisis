@@ -2,8 +2,6 @@
 
 Este repositorio integra las evidencias de análisis de datos y modelado desarrolladas en los diferentes módulos de la asignatura. Cada sección contiene enlaces específicos a los repositorios y archivos que contienen las evidencias requeridas para cada indicador de competencia.
 
----
-
 ## Evidencias por Subcompetencia
 
 ### 1. Técnicas Analíticas (SMA0102A)
@@ -15,6 +13,7 @@ Este repositorio integra las evidencias de análisis de datos y modelado desarro
   - **Escalamiento de variables:** Normalización de variables numéricas para evitar sesgos por diferencias de escala
   - **Manejo de outliers:** Técnica de recorte con IQR implementada en los notebooks de EDA
   - **Balanceo de clases:** Uso de SMOTE (oversampling) y undersampling documentado en README del repo
+  - **Reporte escrito:** Respote escrito con detalles sobre esto en la carpeta de reporte/
 - **Repositorio Complementario:** [Aprendizaje - California Housing](https://github.com/EdwinIniguez/Aprendizaje)
 - **Evidencias específicas:**
   - **Escalamiento:** En `Aprendizaje/codes/preprocess/` - normalización de datos California Housing
@@ -31,7 +30,6 @@ Este repositorio integra las evidencias de análisis de datos y modelado desarro
   - `MODELADO/1/Exploracion_Datos.ipynb` - Análisis exploratorio con justificación de técnicas
   - `MODELADO/1/Diccionario_Simple_VisualizacionAonline.xlsx` - Documentación detallada de variables y técnicas aplicadas
 
----
 
 ### 2. Análisis de Información (SMA0104A)
 
@@ -88,7 +86,6 @@ Este repositorio integra las evidencias de análisis de datos y modelado desarro
   - README sección "9. Supuestos y Regularización" - Uso de regularización L2
   - `regressionLogistica.ipynb` - Aplicación de regularización en regresión logística
 
----
 
 ### 3. Integridad Resuelve (SEG0403A)
 
@@ -136,17 +133,6 @@ Este repositorio integra las evidencias de análisis de datos y modelado desarro
    - Notebooks complementarios de análisis estadístico
    - Técnicas de bootstrapping y pruebas de hipótesis
    - Proyectos de regresión lineal y logística
-
----
-
-## Notas para Evaluación
-
-- **Enlaces funcionales:** Todos los repositorios están públicos y accesibles
-- **Organización clara:** Cada evidencia está específicamente ubicada y documentada
-- **Cobertura completa:** Se cubren todos los indicadores requeridos por la rúbrica
-- **Documentación detallada:** Cada repositorio tiene README completo explicando contenido y relevancia
-- **Código ejecutable:** Todos los notebooks y scripts son reproducibles
-
 ---
 
 **Autor:** Edwin Iñiguez Moncada  
